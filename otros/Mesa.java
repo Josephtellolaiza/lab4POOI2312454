@@ -14,11 +14,11 @@ public class Mesa {
         this.material = material;
         this.forma = forma;
     }
-    // Métodos para obtener el material y la forma
+    // Métodos para obtener el material
     public String getMaterial() {
         return material;
     }
-
+ // Métodos para obtener la forma
     public String getForma() {
         return forma;
     }

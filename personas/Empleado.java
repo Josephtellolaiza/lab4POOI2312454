@@ -2,6 +2,7 @@ package personas;
 
 public class Empleado {
 	// Atributos
+	
     private int id;
     private String nombre;
     private String apellido;

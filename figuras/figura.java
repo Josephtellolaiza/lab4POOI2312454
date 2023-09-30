@@ -4,7 +4,7 @@ public class figura {
 	private String tipo;
 	
 	public figura(String tipo) {
-		this tipo = tipo;
+		
 	}
 
 	/**

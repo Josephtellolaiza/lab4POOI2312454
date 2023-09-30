@@ -19,7 +19,7 @@ public class Estudiante {
     }
 
     // Método para obtener la calificación del estudiante
-    public float getNota() {
+    public float getCalificacion() {
         return calificacion;
     }
 

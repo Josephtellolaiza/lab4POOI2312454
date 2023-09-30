@@ -18,9 +18,13 @@ public class Perro {
 	        this.color = color;
 	        this.edad = edad;
 	    }
+	    //Metodo para obtener el nombre del perro
+	    public String getNombre() {
+	    	return nombre;
+	    }
 
 	    // Método para obtener el tipo de raza
-	    public String getTipoRaza() {
+	    public String getRaza() {
 	        return raza;
 	    }
 
